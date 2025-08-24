@@ -22,7 +22,6 @@ It helps users add, organize, and manage tasks with features like due dates, cat
 |-------------|-------------|--------------------|
 | ![Home](./assets/screenshots/home.jpg) | ![Add Task](./assets/screenshots/add.jpg) | ![Filter](./assets/screenshots/filter.jpg) |
 
-*(Replace with real screenshots or GIFs once you capture them)*  
 
 ---
 
