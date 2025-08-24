@@ -45,10 +45,12 @@ It helps users add, organize, and manage tasks with features like due dates, cat
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/27Adityasahil/to-do-application.git
    cd todo-app
 2. Install dependencies:
-   ```npm install
+   ```bash
+   npm install
 3. Start the Expo development server:
-   ```npx expo start
+   ```bash
+   npx expo start
 4. Scan the QR code with Expo Go (Android/iOS) or run on an emulator.
