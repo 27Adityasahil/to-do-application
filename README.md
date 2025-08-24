@@ -20,7 +20,7 @@ It helps users add, organize, and manage tasks with features like due dates, cat
 
 | Home Screen | Adding Task | Completed + Filter |
 |-------------|-------------|--------------------|
-| ![Home](./assets/screenshots/home.png) | ![Add Task](./assets/screenshots/add.png) | ![Filter](./assets/screenshots/filter.png) |
+| ![Home](./assets/screenshots/home.jpg) | ![Add Task](./assets/screenshots/add.jpg) | ![Filter](./assets/screenshots/filter.jpg) |
 
 *(Replace with real screenshots or GIFs once you capture them)*  
 
@@ -35,9 +35,6 @@ It helps users add, organize, and manage tasks with features like due dates, cat
 - **Expo Checkbox** (checkbox component)  
 - **React Native Gesture Handler** (swipe-to-delete)  
 - **DateTimePicker** (due dates)  
-
----
-
 
 ---
 
